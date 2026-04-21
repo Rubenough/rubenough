@@ -17,7 +17,7 @@
 
 Bachelor i informasjonsteknologi, Høyskolen Kristiania (2023 til nå), med utveksling til Universidad de Colima, Mexico i 4. semester.
 
-Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. Byttet bane fordi jeg alltid har vært nysgjerrig på data og teknologi, og ville bygge videre på det. Utvikling fremsto som det kuleste jeg kunne drive med, og jeg er veldig motivert for å lære mer.
+Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. Byttet bane fordi jeg alltid har vært nysgjerrig på data og teknologi, og ville bygge videre på det. Som en visuell person som digger fotografi, falt jeg for utvikling fordi det er der jeg får kombinere det tekniske med det estetiske. Veldig motivert for å lære mer.
 
 ---
 
@@ -68,7 +68,7 @@ Sosial mobil-app for puslespillsamlinger, utlån og øktlogging. Bygget fra bunn
 `React Native` `Expo` `TypeScript` `Supabase` `NativeWind`
 
 ### NM i KI 2026
-Deltok i Norgesmesterskapet i kunstig intelligens 2026 med objektdeteksjon på dagligvareprodukter. Endte på **176. plass i Norge** og **319. plass totalt**.
+Deltok i Norgesmesterskapet i kunstig intelligens 2026 med objektdeteksjon på dagligvareprodukter. Endte på **176. plass** og **319. plass totalt**.
 
 `Python` `YOLOv8` `PyTorch`
 
@@ -86,4 +86,3 @@ Deltok i Norgesmesterskapet i kunstig intelligens 2026 med objektdeteksjon på d
 
 - **E-post:** rvareide@gmail.com
 - **LinkedIn:** [ruben-vareide](https://linkedin.com/in/ruben-vareide)
-- **Nettside:** [soknadsoversikt.no](https://soknadsoversikt.no)
