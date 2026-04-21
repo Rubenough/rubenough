@@ -17,7 +17,7 @@
 
 Bachelor i informasjonsteknologi, Høyskolen Kristiania (2023 til nå), med utveksling til Universidad de Colima, Mexico i 4. semester.
 
-Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. Byttet bane for å bygge det jeg liker mest: moderne apper og webtjenester med god brukeropplevelse.
+Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. Byttet bane fordi jeg alltid har vært nysgjerrig på data og teknologi, og ville bygge videre på det. Utvikling fremsto som det kuleste jeg kunne drive med, og jeg er veldig motivert for å lære mer.
 
 ---
 
