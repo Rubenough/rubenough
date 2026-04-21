@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ruben-vareide"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rvareide@gmail.com"><img src="https://img.shields.io/badge/E--post-0E7C66?style=for-the-badge&logo=gmail&logoColor=white" alt="E-post"/></a>
   <a href="https://soknadsoversikt.no"><img src="https://img.shields.io/badge/soknadsoversikt.no-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Nettside"/></a>
 </p>
 
