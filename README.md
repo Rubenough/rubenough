@@ -83,6 +83,4 @@ Deltok i Norgesmesterskapet i kunstig intelligens 2026 med objektdeteksjon på d
 ---
 
 ## 📫 Ta kontakt
-
-- **E-post:** rvareide@gmail.com
 - **LinkedIn:** [ruben-vareide](https://linkedin.com/in/ruben-vareide)
