@@ -53,7 +53,9 @@ Jobber alltid etter WCAG 2.1 AA, responsivt design og GDPR.
 
 ---
 
-## 🚀 Utvalgte prosjekter
+## 🚀 Personlige prosjekter
+
+Prosjekter jeg har bygget på fritiden, utenom studiene.
 
 ### [soknadsoversikt.no](https://soknadsoversikt.no)
 Produksjonssatt jobbsøknadstracker for norske jobbsøkere. Passordløs innlogging med magic link, status-tracking og statistikk med grafer. GDPR-etterlevelse via EU-hosting, Row Level Security, JSON-eksport og sletting.
@@ -72,11 +74,10 @@ Deltok i Norgesmesterskapet i kunstig intelligens 2026 med objektdeteksjon på d
 
 ---
 
-## 📊 GitHub-statistikk
+## 📊 Mest brukte språk
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubenough&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenough&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenough&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
