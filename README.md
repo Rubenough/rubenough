@@ -26,4 +26,4 @@ Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. B
 
 - **E-post:** rvareide@gmail.com
 - **LinkedIn:** [ruben-vareide](https://linkedin.com/in/ruben-vareide)
-- **Nettside:** [soknadsoversikt.no](https://soknadsoversikt.no)
+
