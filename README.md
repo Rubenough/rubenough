@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hei, jeg er Ruben 👋
 
-<!--
-**Rubenough/rubenough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor-student i informasjonsteknologi ved Høyskolen Kristiania, med spesialisering i frontend- og mobilutvikling. Bor i Øygarden utenfor Bergen.
 
-Here are some ideas to get you started:
+Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. Byttet bane for å bygge det jeg liker mest: moderne apper og webtjenester med god brukeropplevelse.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Det jeg jobber med
+
+- **Frontend:** React, Vite, TypeScript, Tailwind CSS
+- **Mobil:** React Native, Expo, NativeWind, SwiftUI
+- **Backend:** Supabase (PostgreSQL, Auth, RLS, Storage), Node.js
+- **Verktøy:** Git, Vercel, Figma, Xcode, Android Studio
+- **Annet:** WCAG 2.1 AA, responsivt design, GDPR
+
+## 🚀 Prosjekter jeg er stolt av
+
+**[soknadsoversikt.no](https://soknadsoversikt.no)** — Produksjonssatt jobbsøknadstracker for norske jobbsøkere. Passordløs innlogging, status-tracking, statistikk og GDPR-etterlevelse med EU-hosting og RLS. Bygget med React, Vite, Tailwind og Supabase, deployet på Vercel.
+
+**Puslespill-appen** — Sosial mobil-app for puslespillsamlinger, utlån og øktlogging. Bygget fra bunnen i React Native og Expo, med Google OAuth, kryptert sesjonslagring og Supabase med Row Level Security. Full WCAG 2.1 AA-gjennomgang.
+
+**NM i KI 2026** — Deltok i Norgesmesterskapet i kunstig intelligens med objektdeteksjon på dagligvareprodukter. YOLOv8 og PyTorch.
+
+## 📫 Ta kontakt
+
+- **E-post:** rvareide@gmail.com
+- **LinkedIn:** [ruben-vareide](https://linkedin.com/in/ruben-vareide)
+- **Nettside:** [soknadsoversikt.no](https://soknadsoversikt.no)
+
+
