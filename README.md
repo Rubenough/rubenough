@@ -2,7 +2,7 @@
 
 <p align="center">
   Fullstack developer at <a href="https://ditio.no">Ditio</a>. <br/>
-  BSc in Information Technology from Kristiania University College. Based in Øygarden, near Bergen, Norway.
+  BSc in Information Technology – Frontend & Mobile Development from Kristiania University College. Based in Øygarden, near Bergen, Norway.
 </p>
 
 <p align="center">
@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About me
 
-I work as a fullstack developer at Ditio. I hold a BSc in Information Technology from Kristiania University College (2023–2026), including an exchange semester at Universidad de Colima, Mexico.
+I work as a fullstack developer at Ditio. I hold a BSc in Information Technology – Frontend & Mobile Development from Kristiania University College (2023–2026), including an exchange semester at Universidad de Colima, Mexico.
 
-Before moving into software, I worked as a certified optician and ran Rakkerfilm AS as managing director. As a visual person, I'm happiest where the technical meets the aesthetic.
+Before moving into software, I earned a degree in optometry and worked as a certified optician, and ran Rakkerfilm AS as managing director. As a visual person, I'm happiest where the technical meets the aesthetic.
 
 ---
 
