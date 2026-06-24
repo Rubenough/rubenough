@@ -15,7 +15,7 @@
 
 I work as a fullstack developer at Ditio. I hold a BSc in Information Technology – Frontend & Mobile Development from Kristiania University College (2023–2026), including an exchange semester at Universidad de Colima, Mexico.
 
-Before moving into software, I earned a degree in optometry and worked as an optometrist, and ran Rakkerfilm AS as managing director. As a visual person, I'm happiest where the technical meets the aesthetic.
+Before moving into software, I earned a degree in optometry and worked as an optometrist, and co-founded and ran Rakkerfilm AS — the company behind our popular Norwegian YouTube channel *Prez og Dennis*. As a visual person, I'm happiest where the technical meets the aesthetic.
 
 ---
 
