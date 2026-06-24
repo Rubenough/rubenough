@@ -1,8 +1,8 @@
 <h1 align="center">Hei, jeg er Ruben 👋</h1>
 
 <p align="center">
-  Bachelor-student i informasjonsteknologi ved Høyskolen Kristiania, <br/>
-  med spesialisering i frontend- og mobilutvikling. Bor i Øygarden utenfor Bergen.
+  Fullstack-utvikler hos <a href="https://ditio.no">Ditio</a>. <br/>
+  Bachelor i informasjonsteknologi fra Høyskolen Kristiania. Bor i Øygarden utenfor Bergen.
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ---
 
-## 🎓 Kort om meg
+## 👨‍💻 Kort om meg
 
-Bachelor i informasjonsteknologi, Høyskolen Kristiania (2023 til nå), med utveksling til Universidad de Colima, Mexico i 4. semester.
+Jobber som fullstack-utvikler hos Ditio. Har en bachelor i informasjonsteknologi fra Høyskolen Kristiania (2023–2026), med utveksling til Universidad de Colima, Mexico i 4. semester.
 
-Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. Byttet bane fordi jeg alltid har vært nysgjerrig på data og teknologi, og ville bygge videre på det. Som en visuell person som digger fotografi, falt jeg for utvikling fordi det er der jeg får kombinere det tekniske med det estetiske. Veldig motivert for å lære mer.
+Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS før jeg gikk over til utvikling. Som en visuell person trives jeg best der det tekniske møter det estetiske.
 
 ---
 
@@ -34,9 +34,12 @@ Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. B
 
 **Backend og database**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Verktøy og plattformer**
@@ -48,28 +51,13 @@ Har bakgrunn som autorisert optiker og tidligere daglig leder i Rakkerfilm AS. B
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-Jobber alltid etter WCAG 2.1 AA, responsivt design og GDPR.
-
 ---
 
-## 🚀 Personlige prosjekter
+## 🛠️ Utvalgte fritidsprosjekter
 
-Prosjekter jeg har bygget på fritiden, utenom studiene.
-
-### [soknadsoversikt.no](https://soknadsoversikt.no)
-Produksjonssatt jobbsøknadstracker for norske jobbsøkere. Passordløs innlogging med magic link, status-tracking og statistikk med grafer. GDPR-etterlevelse via EU-hosting, Row Level Security, JSON-eksport og sletting.
-
-`React` `Vite` `Tailwind CSS` `Supabase` `Vercel`
-
-### Puslespill-appen
-Sosial mobil-app for puslespillsamlinger, utlån og øktlogging. Bygget fra bunnen med Google OAuth, kryptert sesjonslagring i Keychain/Keystore, og Supabase med Row Level Security. Full WCAG 2.1 AA-gjennomgang med `accessibilityRole` og labels på alle interaktive elementer.
-
-`React Native` `Expo` `TypeScript` `Supabase` `NativeWind`
-
-### NM i KI 2026
-Deltok i Norgesmesterskapet i kunstig intelligens 2026 med objektdeteksjon på dagligvareprodukter. Endte på **176. plass** og **319. plass totalt**.
-
-`Python` `YOLOv8` `PyTorch`
+- **[soknadsoversikt.no](https://soknadsoversikt.no)** — produksjonssatt jobbsøknadstracker med passordløs innlogging, status-tracking og statistikk. GDPR-etterlevelse via EU-hosting og Row Level Security. &nbsp;`React` `Supabase` `Vercel`
+- **[Puslespill-appen](https://github.com/Rubenough/puslespill-appen)** — sosial mobil-app for puslespillsamlinger, utlån og øktlogging. Google OAuth, kryptert sesjonslagring og full WCAG 2.1 AA-gjennomgang. &nbsp;`React Native` `Expo` `Supabase`
+- **NM i KI 2026** — objektdeteksjon på dagligvareprodukter, 176. plass i kategorien. &nbsp;`Python` `YOLOv8` `PyTorch`
 
 ---
 
